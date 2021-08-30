@@ -9,16 +9,18 @@
 	<!-- Technology Icons - https://devicon.dev/ -->
 	<div>
 		<br/>
-		<img height="40rem" width="50rem" title="HTML" alt="HTML" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg"/>
-		<img height="40rem" width="50rem" title="CSS" alt="CSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
-		<img height="40rem" width="50rem" title="JavaScript" alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
-		<img height="40rem" width="50rem" title="VueJS" alt="VueJS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg"/>
-		<img height="40rem" width="50rem" title="ReactJS" alt="ReactJS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
-		<img height="40rem" width="50rem" title="Sass" alt="Sass" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"/>
-		<img height="40rem" width="50rem" title="Stylus" alt="Stylus" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/stylus/stylus-original.svg"/>
-		<img height="40rem" width="50rem" title="GIT" alt="GIT" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
-		<img height="40rem" width="50rem" title="Linux" alt="Linux" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
-		<img height="40rem" width="50rem" title="Figma" alt="Figma" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/>
+		<a target="_blank" href="#">
+			<img height="40rem" width="50rem" title="HTML" alt="HTML" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg"/>
+			<img height="40rem" width="50rem" title="CSS" alt="CSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
+			<img height="40rem" width="50rem" title="JavaScript" alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
+			<img height="40rem" width="50rem" title="VueJS" alt="VueJS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg"/>
+			<img height="40rem" width="50rem" title="ReactJS" alt="ReactJS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
+			<img height="40rem" width="50rem" title="Sass" alt="Sass" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"/>
+			<img height="40rem" width="50rem" title="Stylus" alt="Stylus" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/stylus/stylus-original.svg"/>
+			<img height="40rem" width="50rem" title="GIT" alt="GIT" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
+			<img height="40rem" width="50rem" title="Linux" alt="Linux" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
+			<img height="40rem" width="50rem" title="Figma" alt="Figma" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/>
+		</a>
 		<br/>
 	</div>
 	<!-- Badges - https://dev.to/envoy_/150-badges-for-github-pnk -->
