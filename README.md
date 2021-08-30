@@ -1,3 +1,4 @@
-<div style="display: flex; flex-direction: column; justify-content: center; align-items: center;">
-	[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+<div>
+	<img height="150rem" src="https://github-readme-stats.vercel.app/api?username=guihgdias&theme=midnight-purple&show_icons=true"/>
+	<img height="150rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guihgdias&layout=compact&theme=midnight-purple"/>
 </div>
