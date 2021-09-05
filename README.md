@@ -3,8 +3,7 @@
 	<div>
 		<a target="_blank" href="https://guihgdias.github.io/linkskills/">
 			<img height="170rem" src="https://github-readme-stats.vercel.app/api?username=guihgdias&theme=gotham&show_icons=true"/>
-			<img height="170rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guihgdias&layout=compact&theme=gotham&exclude_repo=slider,facilitatask-teste,covid-tracker,devsla,linkskills,cursofeliz,oldportfolio"/>
-
+			<img height="170rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guihgdias&layout=compact&theme=gotham&exclude_repo=slider,facilitatask-teste,covid-tracker,devsla,linkskills,cursofeliz,oldportfolio,devsfriends,drumpads"/>
 		</a>
 	</div>
 	<!-- Technology Icons - https://devicon.dev/ -->
@@ -44,5 +43,4 @@
 		</a>
 		<hr/>
 	</div>
-	
 </div>
